@@ -2,6 +2,9 @@
 Medusa is an open-source command-line tool designed for fast brute-force password cracking. It supports many protocols, such as FTP, SSH, HTTP, and others.
 
 1°Cria se as wordlistes com as possíveis senhas e logins para executar o brute force.\
+<img width="386" height="181" alt="image" src="https://github.com/user-attachments/assets/e36af3a1-de1b-4eed-ac53-b92c0e1d33da" />
+<img width="452" height="195" alt="image" src="https://github.com/user-attachments/assets/7fbce602-b081-4787-b9a4-170be970f603" />
+
 2°Após cria-se o caminho web onde a o script sera executado.
 
 <img width="456" height="199" alt="Captura de tela 2025-10-06 202031" src="https://github.com/user-attachments/assets/5098ff7a-e71a-4d00-93f1-8528fd7a0fde" />
